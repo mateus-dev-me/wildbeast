@@ -16,6 +16,7 @@ As tecnologias usadas foram:
 
 ---
 ## Conhecimentos aprimorados 🧠
+
 - HTML semântico 
 - CSS pseudo classes 
 - CSS posicionamento avançado
