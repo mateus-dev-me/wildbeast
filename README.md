@@ -25,6 +25,6 @@ As tecnologias usadas foram:
 ---
 ## Preview :computer:
 
-Acesse a página: [**wildbeast**](https://mateus-sousa23.github.io/flexblog/)
+Acesse a página: [**wildbeast**](https://mateus-sousa23.github.io/wildbeast/)
 
 
